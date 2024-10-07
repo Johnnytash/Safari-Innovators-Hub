@@ -34,6 +34,7 @@ To use the Safari Innovators platform:
 4. Start your entrepreneurial journey by creating a project or enrolling in learning modules.
 
 
+
 ## Key Components
 
 1. **Home Page**: Dashboard with featured content, success stories, and upcoming events.
@@ -41,7 +42,7 @@ To use the Safari Innovators platform:
 3. **Mentorship Page**: Browse and connect with mentors, schedule sessions.
 4. **Funding Page**: Explore various funding opportunities and apply for suitable ones.
 5. **Projects Page**: Showcase and manage entrepreneurial projects.
-6. **Community Forum**: Engage in discussions with fellow entrepreneurs and mentors.
+6. **Community Forum**: Discuss with fellow entrepreneurs and mentors.
 7. **Resource Center**: Access curated resources for business development.
 8. **Challenges Page**: Participate in entrepreneurial challenges and competitions.
 
@@ -54,6 +55,7 @@ To use the Safari Innovators platform:
 - State Management: React Context API
 - Data Fetching: TanStack Query (React Query)
 - Icons: Lucide React
+
 
 ## Development Setup
 
@@ -86,8 +88,15 @@ To set up the project for local development:
 The Safari Innovators platform can be deployed using various hosting services.
 
 
+
 For custom domain deployment, consider using services like Netlify or Vercel. Refer to their respective documentation for detailed deployment instructions.
 
----
+---This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-For any additional information or support, please contact the Safari Innovators team.
+
+## Acknowledgments
+
+- Thanks to all the contributors who have helped shape this project
+- Special thanks to our mentors and advisors for their guidance
+
+For more detailed information about specific components or features, refer to the inline comments in the code or contact the development team.
