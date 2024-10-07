@@ -33,12 +33,6 @@ To use the Safari Innovators platform:
 3. Explore the various features and resources available.
 4. Start your entrepreneurial journey by creating a project or enrolling in learning modules.
 
-## User Roles
-
-- **Entrepreneurs**: Access learning resources, seek mentorship, manage projects, and explore funding opportunities.
-- **Mentors**: Offer expertise, guide entrepreneurs, and participate in mentorship sessions.
-- **Investors**: Browse projects, connect with entrepreneurs, and explore investment opportunities.
-- **Organizations**: Offer programs, post challenges, and engage with the entrepreneurial ecosystem.
 
 ## Key Components
 
